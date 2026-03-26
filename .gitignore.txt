@@ -1,0 +1,4 @@
+# Eclipse workspace files
+.metadata/
+*.log
+*.baj
