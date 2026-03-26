@@ -3,7 +3,6 @@ Daily DSA practice in Java | Arrays, Strings, LinkedList, Trees, DP and more
 
 # DSA Practice — Java
 Daily Data Structures and Algorithms practice in Java.
-Following Apna College Alpha 3.0 curriculum.
 
 ## Progress Tracker
 
