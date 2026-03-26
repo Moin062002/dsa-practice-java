@@ -1,0 +1,14 @@
+package com.ex;
+
+public class GridWaysLinearTimeComplex {
+	public static int gridWays(int n, int m) {
+		
+	}
+	
+	public static void main(String[] args) {
+		int n=3 , m=3;
+		gridWays(n,m);
+		
+	}
+
+}

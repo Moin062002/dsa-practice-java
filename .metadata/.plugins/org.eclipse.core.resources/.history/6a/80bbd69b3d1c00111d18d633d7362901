@@ -1,0 +1,17 @@
+package com.ex;
+
+public class GridWaysExpoTimeComplex {
+	public static int gridWays(int i,int j,int n,int m) {
+		// base
+		if(i == n-1 && j ==n-1) {
+			return 
+		}
+		
+	}
+	
+	public static void main(String[] args) {
+		gridWays(0,0,3,3);
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;divideandconqueror&apos; to &apos;Recursion/src&apos;&#x0D;&#x0A;- Original project: &apos;BasicSorting&apos;&#x0D;&#x0A;- Destination element: &apos;Recursion/src&apos;&#x0D;&#x0A;- Original element: &apos;BasicSorting/src/divideandconqueror&apos;" description="Copy package" destination="=Recursion/src" element1="/src&lt;divideandconqueror" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1772083734017" version="1.0"/>
+</session>
