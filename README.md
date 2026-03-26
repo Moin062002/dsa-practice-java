@@ -25,6 +25,8 @@ Daily Data Structures and Algorithms practice in Java.
 | Dynamic Programming | ⏳ Upcoming |
 
 ## 📁 Folder Structure
+
+```bash
 dsa-practice-java/
 ├── pattern/
 ├── numbers/
