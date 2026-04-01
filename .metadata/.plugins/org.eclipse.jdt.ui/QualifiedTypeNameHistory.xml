@@ -15,4 +15,7 @@
     <fullyQualifiedTypeName name="basicpart2.LinkedList.Node"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="basicpart2.Doublell"/>
+    <fullyQualifiedTypeName name="basicpart2.Doublell.Node"/>
+    <fullyQualifiedTypeName name="basicpart2.CircularLLL.Node"/>
 </qualifiedTypeNameHistroy>
